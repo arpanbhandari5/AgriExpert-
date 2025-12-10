@@ -1,0 +1,9 @@
+{
+  "name": "Agri Expert",
+  "description": "AI-Powered Agricultural Intelligence for Gandaki Province. Empowering farmers with disease detection, market insights, and climate adaptation tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
